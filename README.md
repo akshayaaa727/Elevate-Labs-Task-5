@@ -1,7 +1,7 @@
 Decision Trees and Random Forests for Heart Disease Prediction
-This project provides a complete Python script to explore, train, and evaluate tree-based machine learning models for classification. Using the popular Heart Disease dataset, it demonstrates the entire workflow from training a single Decision Tree to evaluating a more robust Random Forest model. 🌳🔬
+This project provides a complete Python script to explore, train, and evaluate tree-based machine learning models for classification. Using the popular Heart Disease dataset, it demonstrates the entire workflow from training a single Decision Tree to evaluating a more robust Random Forest model.
 
-📋 Project Workflow
+Project Workflow
 The script decision_trees_and_forests.py performs the following steps:
 
 Data Loading & Preparation: Loads the heart.csv dataset and splits it into training and testing sets.
